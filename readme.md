@@ -3,7 +3,7 @@
 ## I'm a Junior Frontend Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Find my first job as an Junior Frontend Developer
+- 🥅 2021 Goals: Find my first job as an Junior Frontend Developer
 - ⚡ Fun fact: I love to play basketball and computer games with friends
 
 ### Connect with me:
